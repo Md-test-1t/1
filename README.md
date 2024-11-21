@@ -1,1 +1,1 @@
-https://hub.docker.com/repository/docker/dimmd/distracted_ride/general
+https://hub.docker.com/r/dimmd/distracted_ride
